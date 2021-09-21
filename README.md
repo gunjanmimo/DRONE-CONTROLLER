@@ -8,4 +8,4 @@ This repo contains a unity3D environment to demonstrate drone controller physics
 3. Target based reward and searching inside the Environment
 
 
-# This is repo is opened for all to reuse in their projects and anyone interested to contribute to my research on Reinforcement Learning and Cognitive Science, you can contact me. My mail id: gunjan.mtbpaul@gmail.com
+#### This is repo is opened for all to reuse in their projects and anyone interested to contribute to my research on Reinforcement Learning and Cognitive Science, you can contact me. My mail id: gunjan.mtbpaul@gmail.com
